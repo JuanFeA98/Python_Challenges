@@ -7,14 +7,10 @@ Este repositorio contiene una colección de desafíos resueltos de HackerRank y 
 El repositorio está estructurado de la siguiente manera:
 
 - **HackerRank/**: Contiene desafíos de HackerRank organizados en las siguientes subcarpetas:
-  - **Algorithms/**: Desafíos de algoritmos.
-  - **Data Structures/**: Desafíos de estructuras de datos.
-  - **Interview Preparation Kit/**: Desafíos de preparación para entrevistas.
+  - **Introducción/**: Desafíos iniciales para familiarizarse con Python.
 
 - **CodeWars/**: Contiene desafíos de CodeWars organizados en las siguientes subcarpetas:
-  - **Beginner/**: Desafíos de nivel principiante.
-  - **Intermediate/**: Desafíos de nivel intermedio.
-  - **Advanced/**: Desafíos de nivel avanzado.
+  - **Data Science/**: Desafíos relacionados con problemas de Ciencia de Datos.
 
 Cada carpeta contiene archivos `.py` con las soluciones a los desafíos correspondientes.
 
