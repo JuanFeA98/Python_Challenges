@@ -1,4 +1,4 @@
-# Python Challenges 💻
+# 🐍 Python Challenges 
 
 Este repositorio contiene una colección de desafíos resueltos de HackerRank y CodeWars, organizados por nivel de dificultad y/o categoría. Los desafíos cubren una variedad de temas, incluyendo algoritmos, estructuras de datos y problemas de programación.
 
@@ -6,10 +6,10 @@ Este repositorio contiene una colección de desafíos resueltos de HackerRank y 
 
 El repositorio está estructurado de la siguiente manera:
 
-- **HackerRank/**: Contiene desafíos de HackerRank organizados en las siguientes subcarpetas:
+- **🥷 HackerRank/**: Contiene desafíos de HackerRank organizados en las siguientes subcarpetas:
   - **Introducción/**: Desafíos iniciales para familiarizarse con Python.
 
-- **CodeWars/**: Contiene desafíos de CodeWars organizados en las siguientes subcarpetas:
+- **🪖 CodeWars/**: Contiene desafíos de CodeWars organizados en las siguientes subcarpetas:
   - **Data Science/**: Desafíos relacionados con problemas de Ciencia de Datos.
 
 Cada carpeta contiene archivos `.py` con las soluciones a los desafíos correspondientes.
